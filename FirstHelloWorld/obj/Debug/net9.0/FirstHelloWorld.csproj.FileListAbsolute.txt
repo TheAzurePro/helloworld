@@ -1,0 +1,14 @@
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\bin\Debug\net9.0\FirstHelloWorld.exe
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\bin\Debug\net9.0\FirstHelloWorld.deps.json
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\bin\Debug\net9.0\FirstHelloWorld.runtimeconfig.json
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\bin\Debug\net9.0\FirstHelloWorld.dll
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\bin\Debug\net9.0\FirstHelloWorld.pdb
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.AssemblyInfoInputs.cache
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.AssemblyInfo.cs
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.dll
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\refint\FirstHelloWorld.dll
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.pdb
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\FirstHelloWorld.genruntimeconfig.cache
+C:\Users\madhrep\source\GitHubRepo\FirstHellowWorld\FirstHelloWorld\obj\Debug\net9.0\ref\FirstHelloWorld.dll
