@@ -1,0 +1,15 @@
+/workspaces/helloworld/FirstHelloWorld/bin/Debug/net8.0/FirstHelloWorld
+/workspaces/helloworld/FirstHelloWorld/bin/Debug/net8.0/FirstHelloWorld.deps.json
+/workspaces/helloworld/FirstHelloWorld/bin/Debug/net8.0/FirstHelloWorld.runtimeconfig.json
+/workspaces/helloworld/FirstHelloWorld/bin/Debug/net8.0/FirstHelloWorld.dll
+/workspaces/helloworld/FirstHelloWorld/bin/Debug/net8.0/FirstHelloWorld.pdb
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.AssemblyInfoInputs.cache
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.AssemblyInfo.cs
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.csproj.CoreCompileInputs.cache
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.sourcelink.json
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.dll
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/refint/FirstHelloWorld.dll
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.pdb
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/FirstHelloWorld.genruntimeconfig.cache
+/workspaces/helloworld/FirstHelloWorld/obj/Debug/net8.0/ref/FirstHelloWorld.dll

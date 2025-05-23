@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\madhrep\\.nuget\\packages\\": {}
+    "/home/codespace/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\madhrep\\source\\GitHubRepo\\FirstHellowWorld\\FirstHelloWorld\\FirstHelloWorld.csproj",
+      "projectUniqueName": "/workspaces/helloworld/FirstHelloWorld/FirstHelloWorld.csproj",
       "projectName": "FirstHelloWorld",
-      "projectPath": "C:\\Users\\madhrep\\source\\GitHubRepo\\FirstHellowWorld\\FirstHelloWorld\\FirstHelloWorld.csproj",
-      "packagesPath": "C:\\Users\\madhrep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\madhrep\\source\\GitHubRepo\\FirstHellowWorld\\FirstHelloWorld\\obj\\",
+      "projectPath": "/workspaces/helloworld/FirstHelloWorld/FirstHelloWorld.csproj",
+      "packagesPath": "/home/codespace/.nuget/packages/",
+      "outputPath": "/workspaces/helloworld/FirstHelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\madhrep\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/codespace/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net9.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -43,12 +43,11 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
-      "net9.0": {
-        "targetAlias": "net9.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
